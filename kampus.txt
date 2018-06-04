@@ -1,1 +1,4 @@
-
+Progdi: Teknik informatika
+Jurusan : Teknik Informatika
+Fakultas : TIK
+Kampus :Universitas Semarang
